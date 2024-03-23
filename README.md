@@ -1,6 +1,9 @@
 # Adams-Video-Player
 Simple Cool Video Player that I made for fun.
 
+#NOTICE
+This repository is now abandoned. Please use my updated media player at this link [here](https://github.com/InfernoCycle/InfernoMultiMediaPlayer)
+
 ## Getting Started
 1. Download the [zip folder]() and extract contents.
 2. Go into extracted folder and find exe file.
