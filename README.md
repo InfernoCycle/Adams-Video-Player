@@ -1,7 +1,7 @@
 # Adams-Video-Player
 Simple Cool Video Player that I made for fun.
 
-#NOTICE
+# NOTICE
 This repository is now abandoned. Please use my updated media player at this link [here](https://github.com/InfernoCycle/InfernoMultiMediaPlayer)
 
 ## Getting Started
