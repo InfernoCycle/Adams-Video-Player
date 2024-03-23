@@ -1,4 +1,4 @@
-# NOTICE
+# IMPORTANT NOTICE
 This repository is now abandoned. Please use my updated media player at this link [here](https://github.com/InfernoCycle/InfernoMultiMediaPlayer)
 
 # Adams-Video-Player
