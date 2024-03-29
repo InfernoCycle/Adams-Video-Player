@@ -1,5 +1,7 @@
 # IMPORTANT NOTICE
-This repository is now abandoned. Please use my updated media player at this link [here](https://github.com/InfernoCycle/InfernoMultiMediaPlayer)
+This repository is now abandoned. Please use my updated media player at this link [here](https://github.com/InfernoCycle/InfernoMultiMediaPlayer).
+
+Note: You can still download the exe for this repo.
 
 # Adams-Video-Player
 Simple Cool Video Player that I made for fun.
